@@ -108,7 +108,7 @@ $ git push -u origin BranchName
 $ git fetch --all --prune
 $ git checkout main
 $ git reset --hard upstream/main
-$ git push origin main
+$ git push origin main 
 ```
 
 ### GUI
